@@ -49,19 +49,12 @@ body {
 
   .imagem-mae {
     width: 100%;
-    max-height: 300px;
+    max-height: 600px;
     object-fit: cover;
     border-radius: 10px;
     margin-top: 20px;
   }
 
-  .imagem-mae {
-    width: 100%;
-    max-height: 100px;
-    object-fit: cover;
-    border-radius: 10px;
-    margin-top: 20px;
-  }
 
   .decoracao {
     font-size: 24px;
