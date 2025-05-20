@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #de5985;
+    text-align: center;
+    height: 100%;
+    padding: 30px;
+    margin: 0;
+  }
+
+  .bg {
+    /* The image used */
+    background-image: url("ceu.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .cartao {
+    background-color: white;
+    border: 3px solid #ff69b4;
+    border-radius: 15px;
+    padding: 30px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  }
+
+  .titulo {
+    font-size: 32px;
+    color: #0000ff;
+  }
+
+  .mensagem {
+    font-size: 20px;
+    margin: 20px 0;
+    color: #444;
+  }
+
+  .assinatura {
+    margin-top: 20px;
+    font-style: italic;
+    color: #777;
+  }
+
+  .imagem-mae {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+
+  .imagem-mae {
+    width: 100%;
+    max-height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+
+  .decoracao {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  button:hover {
+    background-color: #ff1493;
+  }
